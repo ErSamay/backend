@@ -55,8 +55,7 @@ backend/
 │   ├── env.py
 │   ├── script.py.mako
 │   └── versions/
-│       ├── 001_initial_tables.py      # Initial database schema
-│       └── 002_add_async_jobs_and_qualities.py  # Async & quality tables
+│       
 ├── uploads/                        # Original uploaded videos
 ├── processed/                      # Processed videos (trimmed, overlays, etc.)
 ├── overlays/                       # Overlay media files (images/videos)
